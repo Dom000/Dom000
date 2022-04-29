@@ -1,8 +1,11 @@
-I am Dom000 am interested im web and app development
-Am a frontend DEV.
-Good in REACT.JS
-Good in JAVASCRIPT
-Good in HTML
-Good in CSS/frameworks
+I possibly believe everything is possible 
+Just 
+Calm down 🔰
+Think/research 🔰
+Deploy😁
 
-Am fun to be with......🤗🤗🤗
+If you fail? Try again 
+
+That's what I do 🌚🌚
+
+U gerit? 🌛🌛
