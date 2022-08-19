@@ -13,7 +13,7 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dom000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dom000&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dom000&count_private=true&show_icons=true&theme=radical)
 
