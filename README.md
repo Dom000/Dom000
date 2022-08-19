@@ -24,4 +24,4 @@
 
 
 
-<strong style="font-size:405px">.🧰 Languages and Tools:</strong>
+<p style="font-size:405px">.🧰 Languages and Tools:</p>
