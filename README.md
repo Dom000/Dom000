@@ -10,18 +10,29 @@
 
 .📫 <strong> How to reach me <a href="mailto:godknowsegiboy00@gmail.com" >godknowsegiboy00@gmail.com</a> </strong>
 
+<br/>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dom000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dom000&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dom000&count_private=true&show_icons=true&theme=radical)
+<br/>
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dom000&theme=dark)](https://git.io/streak-stats)
+<br/>
+<br/>
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dom000&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br/>
 
 
 
