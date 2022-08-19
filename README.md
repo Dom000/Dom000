@@ -9,3 +9,7 @@
 .💞️ <strong>I’m looking to collaborate on any project using NodeJS, Typescript, React, and javascript</strong>
 
 .📫 <strong> How to reach me <a href="mailto:godknowsegiboy00@gmail.com" >godknowsegiboy00@gmail.com</a> </strong>
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dom000)](https://github.com/ryo-ma/github-profile-trophy)
