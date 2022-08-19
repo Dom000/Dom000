@@ -21,3 +21,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dom000&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
+
+.<strong style="font-size:25px">🧰 Languages and Tools:</strong>
