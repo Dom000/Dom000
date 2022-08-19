@@ -8,4 +8,4 @@
 
 .💞️ <strong>I’m looking to collaborate on any project using NodeJS, Typescript, React, and javascript</strong>
 
-.📫 <strong> How to reach me <a mailto="godknowsegiboy00@gmail.com" /> </strong>
+.📫 <strong> How to reach me <a href="mailto:godknowsegiboy00@gmail.com" >godknowsegiboy00@gmail.com</a> </strong>
