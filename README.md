@@ -1,4 +1,4 @@
-.👋 <strong>Hi, I’m Godknows Egi</strong> 
+.👋 <strong>Hi, I’m Godknows by name</strong> 
 
 .❤️ <strong>Lover of Open Source contribution and Space Advocacy in the code space </strong>
 
