@@ -10,7 +10,7 @@
 
 .📫 <strong> How to reach me <a href="mailto:godknows.developer.com" >godknowsegiboy00@gmail.com</a> </strong>
 
-<br/>
+<!-- <br/>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dom000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -23,7 +23,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dom000&count_private=true&show_icons=true&theme=radical)
 <br/>
-<br/>
+<br/> -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dom000&theme=dark)](https://git.io/streak-stats)
 
 <!-- <br/>
