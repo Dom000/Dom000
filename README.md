@@ -26,21 +26,21 @@
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dom000&theme=dark)](https://git.io/streak-stats)
 
-<br/>
+<!-- <br/>
 <br/>
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dom000&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
+ -->
 
 
-
-<h3>.🧰 Languages and Tools:</h3>
+<!-- <h3>.🧰 Languages and Tools:</h3>
 <div style='display:flex'>
 <img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>&nbsp &nbsp<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>&nbsp &nbsp <img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/> &nbsp &nbsp <img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/> &nbsp &nbsp <img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>&nbsp &nbsp <img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>&nbsp &nbsp <img  width="40px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"/>&nbsp &nbsp <img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
  
-  
+   -->
   
   
 </div>
