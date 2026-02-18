@@ -2,11 +2,9 @@
 
 .❤️ <strong>Lover of Open Source contribution and Space Advocacy in the code space </strong>
 
-.🌱 <strong>I’m currently into web/mobile development as a fullstack developer in the code world</strong>
+.🌱 <strong>I’m currently into web/mobile and backend development as a fullstack developer in the code world</strong>
 
-.📫 <strong>I'm currently working on react-native as a side Booster</strong>
-
-.💞️ <strong>I’m looking to collaborate on any project using NodeJS, Typescript,Next.js,React-native, React, and javascript</strong>
+.💞️ <strong>I’m looking to collaborate and work on any project using NodeJS, Typescript, Next.js, React-Native, React, Go, Python(Django) and Javascript</strong>
 
 .📫 <strong> How to reach me <a href="mailto:godknows.developer.com" >godknowsegiboy00@gmail.com</a> </strong>
 
