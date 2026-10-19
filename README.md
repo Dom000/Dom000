@@ -6,7 +6,7 @@
 
 .💞️ <strong>I’m looking to collaborate and work on any project using NodeJS, Typescript, Next.js, React-Native, React, Go, Python(Django) and Javascript</strong>
 
-.📫 <strong> How to reach me <a href="mailto:godknows.developer.com" >godknowsegiboy00@gmail.com</a> </strong>
+.📫 <strong> How to reach me <a href="mailto:godknowsegi.contact@gmail.com" >godknowsegi.contact@gmail.com</a> </strong>
 
 <!-- <br/>
 
